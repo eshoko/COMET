@@ -1,2 +1,2 @@
 # COMET
-Mapping multimodal associations between (functional) COnnectivity- (cerebral glucose) METabolism
+Mapping multimodal associations between (functional) COnnectivity - (cerebral glucose) METabolism
