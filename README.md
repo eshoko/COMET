@@ -10,7 +10,7 @@ https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-an
 
 -------------------------------------------------------------------------------------------------
 
-Other files are the average maps across the 28 healthy participants (cohort 1) for different indices reported in the paper (Shokri-Kojori et al., 2019):
+Other files are the average maps across 28 healthy participants (cohort 1) for different indices reported in the paper (Shokri-Kojori et al., 2019):
 
 ave_CMRglc.nii.gz is the average of CMRglc maps.
 
