@@ -12,7 +12,7 @@
 addpath(fullfile(pwd, 'NIfTI_20140122')); % adjust this line if needed
 
 lcl = load_nii('LCL.nii.gz'); % this 4D file contains the activity maps (e.g., lFCD or REHO). The 4th dimension is participant.
-pet = load_nii('FDG.nii.gz'); % this 4D file contains the metabolic maps (e.g., FDG SUVr). The 4th dimension is participant.
+pet = load_nii('FDG.nii.gz'); % this 4D file contains the metabolic maps (e.g., FDG SUVr or CMRglc). The 4th dimension is participant.
 msk = load_nii('mask.nii.gz'); % this file contains a single generic mask (e.g., whole brain mask or a gray matter mask)
 
 msk = msk.img; % extracting the mask matrix
