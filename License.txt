@@ -1,0 +1,7 @@
+The material provided here serve as supplemnetal to the data provided in the following paper:
+Shokri-Kojori, E., Tomasi, D., Alipanahi, B. et al. Correspondence between cerebral glucose metabolism and BOLD reveals relative power and cost in human brain. Nat Commun 10, 690 (2019). https://doi.org/10.1038/s41467-019-08546-x
+
+Please refer to the section on Rights and Permissions for addtional details on copyright:
+https://www.nature.com/articles/s41467-019-08546-x#rightslink
+
+Please do not upload the material on other websites.
